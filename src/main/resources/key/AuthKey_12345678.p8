@@ -1,0 +1,3 @@
+-----BEGIN PRIVATE KEY-----
+12345678
+-----END PRIVATE KEY-----
