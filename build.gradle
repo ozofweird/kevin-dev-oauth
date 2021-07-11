@@ -42,6 +42,9 @@ dependencies {
     // jwt, gson
     implementation group: 'io.jsonwebtoken', name: 'jjwt', version: '0.9.1'
     implementation 'com.google.code.gson:gson'
+
+    // java encrypt library
+    implementation group: 'org.bouncycastle', name: 'bcpkix-jdk15on', version: '1.69'
 }
 
 test {
